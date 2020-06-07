@@ -1,0 +1,3 @@
+```
+weva today -l --location
+```
